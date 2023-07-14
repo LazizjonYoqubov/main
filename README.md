@@ -1,6 +1,6 @@
 # Getting Started with Webbrain Academy
 
-This project is available on github [Create React App](https://github.com/yokubov/houzing).
+This project is available on github [Create React App](https://github.com/LazizjonYoqubov/houzing).
 
 
 
